@@ -676,7 +676,7 @@ const Header = () => {
                 <div className="contact-buttons">
 
                   <a
-                    href="https://wa.me/916350451080"
+                    href="https://baghajabgarh-com.vercel.app/contact"
                     target="_blank"
                     rel="noreferrer"
                     className="gold-button"
@@ -685,7 +685,7 @@ const Header = () => {
                   </a>
 
                   <a
-                    href="https://www.google.com/maps/place/Bagh+Ajabgarh/@27.182645,76.2906346,17z/data=!4m9!3m8!1s0x396d832f4cb14005:0x546a721b1294cc8c!5m2!4m1!1i2!8m2!3d27.182645!4d76.2906346!16s%2Fg%2F11m_5kfsy6!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D"
+                    href="https://maps.app.goo.gl/"
                     target="_blank"
                     rel="noreferrer"
                     className="outline-button dark-outline"
