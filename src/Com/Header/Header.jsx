@@ -829,17 +829,15 @@ const Header = () => {
               <div className="social-links">
 
                 <a href="https://www.facebook.com/" aria-label="Facebook">
-                  <i class="fa fa-facebook-official" aria-hidden="true"></i>
+                  <i class="fa fa-facebook-official" aria-hidden="true">https://www.facebook.com/baghajabgarh</i>
 
                 </a>
 
                 <a href="https://www.instagram.com/?hl=en" aria-label="Instagram">
-                  <i class="fa fa-instagram" aria-hidden="true"></i>
-
-                </a>
+                  <i class="fa fa-instagram" aria-hidden="true">https://www.instagram.com/baghajabgarh/</i></a>
 
                 <a href="https://www.youtube.com/" aria-label="YouTube">
-                  <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                  <i class="fa fa-youtube-play" aria-hidden="true">https://www.youtube.com/watch?v=7WyvOICiq_w</i>
 
                 </a>
 
