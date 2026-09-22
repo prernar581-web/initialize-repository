@@ -138,14 +138,14 @@ const Header = () => {
 
               <div className="about-image-main">
                 <img
-                  src="https://baghajabgarh-com.vercel.app/images/PROPERY-FACADE-VIEW-01.jpg"
+                  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/811965417.jpg?k=c668085f14b33f6ef8a451ed21fc43ec0f473f950f9e11d6d4cd1d12b1092ece&o="
                   alt="Bagh Ajabgarh property"
                 />
               </div>
 
               <div className="about-image-small">
                 <img
-                  src="https://baghajabgarh-com.vercel.app/images/OUTSIDE-LAKE-GARDEN-VIEW.jpg"
+                  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/811965623.jpg?k=8a76bf919318c05f24e2c3b361595618c4b10bd66ae3893a3411b488e7597fb1&o="
                   alt="Bagh Ajabgarh garden and pool"
                 />
               </div>
@@ -227,7 +227,7 @@ const Header = () => {
                 <div className="room-image">
 
                   <img
-                    src="https://baghajabgarh-com.vercel.app/images/OUTSIDE-LAKE-VIEW.jpg"
+                    src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/811965720.jpg?k=49471b111e6629927ebeb739b22622d78432d0e555b32ba5ebac9432bfefbc18&o="
                     alt="Lake view room"
                   />
 
@@ -273,7 +273,7 @@ const Header = () => {
                 <div className="room-image">
 
                   <img
-                    src="https://baghajabgarh-com.vercel.app/images/PROPERY-FACADE-VIEW-02.jpg"
+                    src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/811965616.jpg?k=44fbab4bdcae2f7dc37178b728e1b380fca54785be2a226428fba520d3bc33ad&o="
                     alt="Pool view room"
                   />
 
@@ -319,7 +319,7 @@ const Header = () => {
                 <div className="room-image">
 
                   <img
-                    src="https://baghajabgarh-com.vercel.app/images/OUTSIDE-LAKE-GARDEN-VIEW.jpg"
+                    src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/827515607.jpg?k=15e450a78c5f3f59dc23af4f9583c1b64097cba954294e286e768666a6359966&o="
                     alt="Heritage room"
                   />
 
@@ -391,7 +391,7 @@ const Header = () => {
 
               <div className="gallery-item gallery-large">
                 <img
-                  src="https://baghajabgarh-com.vercel.app/images/PROPERY-FACADE-VIEW-01.jpg"
+                  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/827517109.jpg?k=8771b33a8ac7a7f3d97f1c59246867405b7b4fa40ce054fd476867db02e00081&o="
                   alt="Property facade"
                 />
                 <div className="gallery-caption">
@@ -401,7 +401,7 @@ const Header = () => {
 
               <div className="gallery-item">
                 <img
-                  src="https://baghajabgarh-com.vercel.app/images/PROPERY-VIEW-01.jpg"
+                  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/827516984.jpg?k=f6650cb8fe83901bb4b50390f8ab9629318302e217d2af6018869520762156e3&o="
                   alt="Property view"
                 />
                 <div className="gallery-caption">
@@ -411,7 +411,7 @@ const Header = () => {
 
               <div className="gallery-item">
                 <img
-                  src="https://baghajabgarh-com.vercel.app/images/PROPERY-VIEW-02.jpg"
+                  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/827518388.jpg?k=4097883ad38c870766718aae539faccde056a814267986fe37fa54cf63d88017&o="
                   alt="Garden property"
                 />
                 <div className="gallery-caption">
@@ -421,7 +421,7 @@ const Header = () => {
 
               <div className="gallery-item">
                 <img
-                  src="https://baghajabgarh-com.vercel.app/images/OUTSIDE-LAKE-VIEW.jpg"
+                  src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/827518331.jpg?k=db69041ba5cb1bc69a7ba80ffebbf9a93470c2033f27f55f962ae4f5984a1e2f&o="
                   alt="Pool and lake"
                 />
                 <div className="gallery-caption">
